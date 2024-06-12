@@ -1,1 +1,2 @@
 nginx:latest
+elasticsearch:7.12.1

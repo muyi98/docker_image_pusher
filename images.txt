@@ -3,3 +3,4 @@ elasticsearch:7.12.1
 kibana:7.12.1
 nacos/nacos-server:latest
 mysql:8.0.31
+mysql:5.7
